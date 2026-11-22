@@ -22,4 +22,4 @@ Videojuego interactivo desarrollado en **Processing (Java)** para la asignatura 
 * Angelo Foliaco Anaya
 * Diego Andres Guerrero Canoles
 
-**Docente:** Rocío Ramos Rodríguez[cite: 5, 6]
+**Docente:** Rocío Ramos Rodríguez
