@@ -1,0 +1,10 @@
+Jugador: Diego
+Edad: 18
+Partida: 1
+Puntaje digital: 38
+Clasificación: Dependencia Digital Alta
+Decisiones correctas: 13
+Decisiones incorrectas: 22
+Horas acumuladas de uso: 13
+Nivel alcanzado: Nivel 1: Principiante Digital
+Mejor puntaje: 38
