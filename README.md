@@ -1,6 +1,6 @@
 # 🛡️ Cyber Truth
 
-Videojuego interactivo desarrollado en **Processing (Java)** para la asignatura **Algoritmia y Programación I** (Semestre 1) de la **Universidad del Norte** — *VI Feria Gamer 2026-30*.
+Videojuego interactivo desarrollado en **Processing (Java)** para la asignatura **Algoritmia y Programación I** (Semestre 1) de la **Universidad del Norte**
 
 ## 🎮 Descripción
 **Cyber Truth** simula una semana (7 días) en la vida digital de un estudiante de *Ciudad Digital*. A través de 35 situaciones reales divididas en 3 niveles de dificultad, el jugador debe gestionar su tiempo en pantalla, configurar su privacidad, evitar estafas y detectar noticias falsas (*fake news*). Cada decisión impacta su **Puntaje de Riesgo** y determina uno de los 3 finales posibles.
